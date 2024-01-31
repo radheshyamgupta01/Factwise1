@@ -1,0 +1,15 @@
+/* Add these styles to your CSS */
+.content {
+    visibility: hidden;
+    opacity: 0;
+    max-height: 0;
+    overflow: hidden;
+    transition: visibility 0s, opacity 0.5s, max-height 0.5s;
+  }
+  
+  .details.open .content {
+    visibility: visible;
+    opacity: 1;
+    max-height: 100vh;
+  }
+  
