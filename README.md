@@ -1,3 +1,15 @@
+#  list 
+![Screenshot (127)](https://github.com/radheshyamgupta01/factwise-task/assets/142769686/51d09f45-bdbb-41c3-9590-47c739633647)
+
+![Screenshot (128)](https://github.com/radheshyamgupta01/factwise-task/assets/142769686/2adab2da-781a-403e-ae42-7bf911d47a08)
+![Screenshot (129)](https://github.com/radheshyamgupta01/factwise-task/assets/142769686/11bc0d5e-1371-4dce-9d25-8ffc4a1526c2)
+![Screenshot (130)](https://github.com/radheshyamgupta01/factwise-task/assets/142769686/0006db7a-d842-4ca2-b3d2-5be5bc875b10)
+![Screenshot (131)](https://github.com/radheshyamgupta01/factwise-task/assets/142769686/3362f6c9-a76e-4824-b152-093d1c9a5bb9)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
